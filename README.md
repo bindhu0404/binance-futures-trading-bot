@@ -72,7 +72,7 @@ python cli.py --symbol BTCUSDT --side BUY --type LIMIT --quantity 0.001 --price 
 python cli.py --symbol BTCUSDT --side SELL --type STOP --quantity 0.001 --stopPrice 108000 --price 107500
 
 
-## For a SELL STOP-LIMIT:
+For a SELL STOP-LIMIT:
 
 stopPrice = price that triggers the limit order
 
