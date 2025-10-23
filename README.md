@@ -1,4 +1,4 @@
-# Simplified Binance Futures Trading Bot
+# Binance Futures Trading Bot
 
 ## Overview
 This is a Python-based simplified trading bot for Binance Futures Testnet (USDT-M).  
