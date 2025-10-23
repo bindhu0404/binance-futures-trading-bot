@@ -92,7 +92,7 @@ python cli.py --orders BTCUSDT
 
 All logs are automatically saved in:
 
-logs/bot.log
+logs/trading_bot.log
 
 
 The log file contains:
